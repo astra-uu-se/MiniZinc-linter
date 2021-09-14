@@ -1,4 +1,10 @@
-# About
+# New About
+This is a clone of Erik Rimskog's repo for his master thesis at Uppsala Univeristy. The original repo is at [Github](https://github.com/erikvader/MiniZinc-linter). The report can be found on 
+[Diva](http://uu.diva-portal.org/smash/get/diva2:1591018/FULLTEXT01.pdf). 
+
+
+
+# OlD About
 This is my master thesis project for a
 [linter](https://en.wikipedia.org/wiki/Lint_(software)) for
 [MiniZinc](https://www.minizinc.org/), project at [libminizinc](https://github.com/MiniZinc/libminizinc).
