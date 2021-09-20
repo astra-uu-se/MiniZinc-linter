@@ -4,7 +4,7 @@ This is a clone of Erik Rimskog's repo for his master thesis at Uppsala Univeris
 
 
 
-# OlD About
+# Old About
 This is my master thesis project for a
 [linter](https://en.wikipedia.org/wiki/Lint_(software)) for
 [MiniZinc](https://www.minizinc.org/), project at [libminizinc](https://github.com/MiniZinc/libminizinc).
